@@ -1,0 +1,36 @@
+{
+  "email": "fm_bourouais@esi.dz",
+  "location": "Algiers , the center",
+  "name": "Marwa Soumaia Bourouais",
+  "phone": "+213770129344",
+
+  "education": [
+    {
+      "title": "Engineer in Computer software engineering and Information Systems",
+      "meta": "Higher National School of Computer Science In Algiers , 2015-2020"
+    }
+  ],
+  "about": "Hello world , I'm marwa soumaia Bourouais from Algiers , i'm 24 years old and i'm a fresh computer science engineer . I consider my self actually as a value adder to whatever team i join due to the love i have to my job . I really enjoy writing the pieces of code , for me it's painting its an art . In addition , I'm a very productive and progressive person , i like adding skills to my resume and passing from a step to another fast but surely .",
+  "socials": [
+    {
+      "name": "fm_bourouais@esi.dz",
+      "link": "mailto:rnldhv91@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/marwa-bourouais",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/marwa-soumia-bourouais-45b8aa146/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "name": "My Other Website ",
+      "link": "https://www.marwas-palabras.blogspot.com/",
+      "icon": "fab fa-pen"
+    }
+  ]
+}
