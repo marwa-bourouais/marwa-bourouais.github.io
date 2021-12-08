@@ -1,0 +1,58 @@
+{
+  "work": [
+    {
+      "date": "December 2019 - March2021",
+      "title": "Software Developer at Ouedkniss.com",
+      "description":  "Helped in maintining backend of the e-commerce website and adding new featueres",
+      "stack": [
+        "Laravel Framework",
+        "PHP",
+        "GraphQl",
+        "Minio",
+        "Git",
+        "RabbitMQ",
+        "GitHub",
+        "MongoDb",
+        "MySql"
+      ]
+    },
+    {
+      "date": "Aout 2021 - September 2021",
+      "title": "Data Analyst & Marketing Assistant at Jumia DZ",
+      "description":  "Helped in customers targeting with sql segmentation",
+      "stack": [
+        "Power BI",
+        "SQL",
+        "Data Analysis"
+      ]
+    },
+    {
+      "date": "November 2021 -  present",
+      "title": "Software Engineer at It Synergy & Data first Technologies",
+      "description": "Collaborating in cross-plateform projects ",
+      "stack": [
+        "FLutter",
+        "Android",
+        "Angular",
+        "Wordpress",
+        "PHP",
+        "git",
+        "Github"
+      ]
+    },
+    {
+      "date": "November 2020 - March 2021",
+      "title": "Freelance Software Developer",
+      "description": "I take on freelance contracts to build my first wordpress project which was an e-commerce store for nadjimegabookstore : \n\nURL is https://nadjimegabookstore.com ",
+      "stack": [
+        "Wordpress",
+        "PHP",
+        "MySql",
+        "Hostinger",
+        "Woocommerce"
+        
+      ]
+    }
+
+  ]
+}
